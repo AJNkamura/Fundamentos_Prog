@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1696980396 source:c:\users\amand\meu drive\bsi\1_periodo\fundamentos_de_programacao_1\projetos\projeto01_2023-02\t1-2582686\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho1.h"
+
+1696205929 c:\users\amand\meu drive\bsi\1_periodo\fundamentos_de_programacao_1\projetos\projeto01_2023-02\t1-2582686\trabalho1.h
+
+1696205929 source:c:\users\amand\meu drive\bsi\1_periodo\fundamentos_de_programacao_1\projetos\projeto01_2023-02\t1-2582686\trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+
+1696980381 source:c:\users\amand\meu drive\bsi\1_periodo\fundamentos_de_programacao_1\projetos\projeto01_2023-02\t1-2582686\t1-2582686.c
+	"trabalho1.h"
+	<float.h>
+	<stdio.h>
+	<limits.h>
+	<math.h>
+
